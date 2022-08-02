@@ -9,8 +9,8 @@
 Skills: React | Redux | Javascript | Typescript | CSS | HTML | Git | NodeJs | PostgresSQL | Sequelize | Express
 
 - 📫 How to reach me: 
-E-mail: andreacc9199@gmail.com 
-LinkedIn: https://www.linkedin.com/in/andrea-carvajal-osorio/
+- E-mail: andreacc9199@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/andrea-carvajal-osorio/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreacco)](https://github.com/anuraghazra/github-readme-stats)
 
