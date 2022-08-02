@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Andrea
 #### I am a FullStack Developer focused on frontend
-![](https://res.cloudinary.com/drdbdhlp2/video/upload/v1659472719/Banner%20Github/Banner_github_iqx7to.mp4)
+![](https://res.cloudinary.com/drdbdhlp2/image/upload/v1659474817/Banner%20Github/Banner_github_gltoop.gif)
 
 🤓I'm a very self-taught person, I like to learn new things constantly, I love organization, teamwork, and the personal and professional growth that is achieved in it.🤓
 
